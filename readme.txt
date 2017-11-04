@@ -1,0 +1,1 @@
+I am studying the basics of Git. This repo is just for experimenting.
